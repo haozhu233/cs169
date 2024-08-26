@@ -7,9 +7,7 @@ Authors@R:
 Imports:
     knitr (>= 1.33),
     rmarkdown,
-    tidyverse,
-    Rtsne,
-    umap
+    tidyverse
 Description: What the package does (one paragraph).
 License: MIT + file LICENSE
 Encoding: UTF-8
